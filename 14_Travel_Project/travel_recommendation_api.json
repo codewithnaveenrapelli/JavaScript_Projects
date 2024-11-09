@@ -61,12 +61,6 @@
             "name": "Taj Mahal, India",
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIWinMFdDwemBVD2-FkRCm9DMW2VqB5jHyg&s",
             "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
-        },
-        {
-            "id": 1,
-            "name": "Angkor Wat, Cambodia",
-            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUE1fYTov6DLt8XzmY2xKaoB0pCEYdWeN90A&s",
-            "description": "A UNESCO World Heritage site and the largest religious monument in the world."
         }
     ],
     "beaches": [
